@@ -1,16 +1,27 @@
-# giphy_app
+# Aplicativo para busca de Gifs
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/chenrilima/git-giphy/blob/master/LICENSE) 
 
-A new Flutter application.
+# Sobre o projeto
 
-## Getting Started
+https://wmazoni-sds1.netlify.app
 
-This project is a starting point for a Flutter application.
+O Giphy App é uma aplicação mobile construída durante o Curso de Flutter realizado na **Plataforma Udemy** (https://udemy.com).
 
-A few resources to get you started if this is your first Flutter project:
+A aplicação consiste em uma pesquisa de gifs, utilizando a API do sit **GIPHY Developers** (https://developers.giphy.com), onde as imagens são coletadas no app mobile, e são listados na tela, onde é possível compartilhar entre amigos.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Layout mobile
+![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Tecnologias utilizadas
+## Back end
+- Dart
+## Front end
+- Flutter
+
+# Autor
+
+Carlos Henrique Lima de Souza
+
+https://www.linkedin.com/in/carlos-henrique-b07192a7/
+
