@@ -10,7 +10,7 @@ A aplicação consiste em uma pesquisa de gifs, utilizando a API do site **GIPHY
 
 
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![pesquisando](https://user-images.githubusercontent.com/58492693/112397817-93322780-8ce1-11eb-8dad-f5f9b4d944e5.gif)
 
 
 # Tecnologias utilizadas
