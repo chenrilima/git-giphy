@@ -10,7 +10,16 @@ A aplicação consiste em uma pesquisa de gifs, utilizando a API do site **GIPHY
 
 
 ## Layout mobile
+
+Pesquisando -
+
 ![pesquisando](https://user-images.githubusercontent.com/58492693/112397817-93322780-8ce1-11eb-8dad-f5f9b4d944e5.gif)
+
+
+Compartilhando -
+
+![compartilhando](https://user-images.githubusercontent.com/58492693/112397967-ea37fc80-8ce1-11eb-9cd2-7d580ade5099.gif)
+
 
 
 # Tecnologias utilizadas
